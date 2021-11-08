@@ -1,4 +1,4 @@
-# lost-and-found# Lost and Found App (Android)
+Lost and Found App (Android)
 Make simple app for lost and found items
 
 # Getting Started
