@@ -14,7 +14,7 @@ Make simple app for lost and found items
     $ flutter run
 ```
 #### React Native - Redux
-```
+```sh
     $ cd reactNativeRedux
     $ npx react-native start
     $ npx react-native run-android
